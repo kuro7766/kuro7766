@@ -7,7 +7,7 @@
 
 ## Statistics
 ![Stats](https://github-readme-stats.vercel.app/api?username=kuro7766)
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=kuro7766&hide=ipynb,html&layout=compact)
+<!-- ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=kuro7766&hide=ipynb,html&layout=compact) -->
 
 
 <!---
