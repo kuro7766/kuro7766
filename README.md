@@ -2,7 +2,7 @@
 - 👀 I’m interested in Flutter,Machine Learning
 - 📫 How to reach me 2280315050@qq.com
 
-## My Website :　https://kuro7766.github.io/BlogProject/build/web/
+## My Website :　building...
 
 <!---
 kuro7766/kuro7766 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
