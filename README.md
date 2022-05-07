@@ -3,13 +3,13 @@
 - 📫 How to reach me 2280315050@qq.com
 
 <!-- ## My Website :　building... -->
-
+<!-- 
 ### 公告
 
 从之前的biliUp刷播放找到这里的，那个仓库已经黑了
 
 源码在QQ群[825766491](https://jq.qq.com/?_wv=1027&k=ufk3KrUQ)，大家可以下载继续自行使用。
-
+ -->
 <!-- ## Statistics -->
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=kuro7766) -->
 <!-- ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=kuro7766&hide=ipynb,html&layout=compact) -->
