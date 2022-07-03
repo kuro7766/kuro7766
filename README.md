@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kuro7766
 - 👀 I’m interested in Flutter,Machine Learning
-- 📫 How to reach me 2280315050@qq.com
+
 
 <!-- ## My Website :　building... -->
 <!-- 
